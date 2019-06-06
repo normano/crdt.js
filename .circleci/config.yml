@@ -1,3 +1,16 @@
-machine:
-  node:
-    version: 8.2.0
+version: 2
+jobs:
+  test:
+    docker:
+      - image: circleci/node:latest-browsers
+    steps:
+      - checkout
+      - run: npm install
+      - run:
+          command : npm run test
+          no_output_timeout : 30m
+workflows:
+  version: 2
+  test:
+    jobs:
+      - test
