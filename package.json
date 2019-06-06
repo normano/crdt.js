@@ -1,6 +1,6 @@
 {
   "name": "crdt.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Conflict-Free Replicated Data Types JavaScript Library",
   "license": "MIT",
   "main": "index.js",
