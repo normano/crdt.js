@@ -1,0 +1,39 @@
+{
+  "name": "crdts",
+  "version": "0.0.1",
+  "description": "Conflict-Free Replicated Data Types JavaScript Library",
+  "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "xcesiv",
+    "url": "https://xcesiv.io",
+    "github": "https://github.com/xcesiv",
+    "twitter": "https://twitter.com/brandonjpscott"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xcesiv/crdt.js"
+  },
+  "bugs":"https://github.com/xcesiv/crdt.js/issues",
+  "homepage":"https://github.com/xcesiv/crdt.js",
+  "keywords": [
+    "crdt",
+    "crdts",
+    "g-counter",
+    "g-set",
+    "or-set",
+    "lww-set",
+    "2p-set"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha"
+  }
+}
