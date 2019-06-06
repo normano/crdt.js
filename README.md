@@ -1,6 +1,6 @@
 # Conflict-free Replicated Data Types JavaScript Library
 
-[![npm version](https://badge.fury.io/js/crdts.svg)](https://www.npmjs.com/package/crdt,)
+[![npm version](https://img.shields.io/npm/v/crdt.js.svg)](https://www.npmjs.com/package/crdt.js)
 
 > Module library of CRDTs written in pure JavaScript
 

@@ -14,8 +14,8 @@
     "type": "git",
     "url": "https://github.com/xcesiv/crdt.js"
   },
-  "bugs":"https://github.com/xcesiv/crdt.js/issues",
-  "homepage":"https://github.com/xcesiv/crdt.js",
+  "bugs": "https://github.com/xcesiv/crdt.js/issues",
+  "homepage": "https://github.com/xcesiv/crdt.js",
   "keywords": [
     "crdt",
     "crdts",
@@ -31,7 +31,9 @@
   "devDependencies": {
     "mocha": "^4.0.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "badges": "^1.3.0"
+  },
   "scripts": {
     "test": "./node_modules/.bin/mocha",
     "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha"
