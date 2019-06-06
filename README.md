@@ -1,7 +1,7 @@
 # Conflict-free Replicated Data Types JavaScript Library
 
 [![npm version](https://img.shields.io/npm/v/crdt.js.svg)](https://www.npmjs.com/package/crdt.js)
-
+[![last commit](https://img.shields.io/github/last-commit/xcesiv/crdt.js.svg)](https://github.com/xcesiv/crdt.js)
 > Module library of CRDTs written in pure JavaScript
 
 This module provides a set of Conflict-Free Replicated Data Types for your JavaScript programs. All CRDTs in this library, except G-Counter,are currently operation-based.
