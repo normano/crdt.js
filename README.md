@@ -1,3 +1,4 @@
+[![Board Status](https://brandonjpscott.visualstudio.com/f5321cb3-0db4-4e7d-8115-a4a16a1d111f/afcbd115-06ca-47e6-93df-1925f446944c/_apis/work/boardbadge/7f41deea-0441-4e33-8bad-d40920f848d3)](https://brandonjpscott.visualstudio.com/f5321cb3-0db4-4e7d-8115-a4a16a1d111f/_boards/board/t/afcbd115-06ca-47e6-93df-1925f446944c/Microsoft.RequirementCategory)
 # Conflict-free Replicated Data Types JavaScript Library
 
 [![circleci](https://img.shields.io/circleci/build/github/xcesiv/crdt.js.svg)](https://circleci.com/gh/xcesiv/crdt.js)[![npm version](https://img.shields.io/npm/v/crdt.js.svg)](https://www.npmjs.com/package/crdt.js)[![node](https://img.shields.io/node/v/crdt.js.svg)](https://www.npmjs.com/package/crdt.js)[![last commit](https://img.shields.io/github/last-commit/xcesiv/crdt.js.svg)](https://github.com/xcesiv/crdt.js)
